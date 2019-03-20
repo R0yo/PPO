@@ -1,0 +1,4 @@
+C:\Users\krosh\Desktop\group-projectTests\obj\Debug\group-projectTests.csprojResolveAssemblyReference.cache
+C:\Users\krosh\Desktop\group-projectTests\obj\Debug\group-projectTests.csproj.CoreCompileInputs.cache
+C:\trash\work_space\ППО\group-projectTests\obj\Debug\group-projectTests.csprojResolveAssemblyReference.cache
+C:\trash\work_space\ППО\group-projectTests\obj\Debug\group-projectTests.csproj.CoreCompileInputs.cache

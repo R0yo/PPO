@@ -1,0 +1,19 @@
+﻿<Window x:Class="group_project.DogWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:group_project"
+        mc:Ignorable="d"
+        Title="DogWindow" Height="300" Width="300" WindowStyle="None" AllowsTransparency="True" Background="{x:Null}" WindowState="Maximized">
+    <Grid RenderTransformOrigin="0.5,0.5">
+        <Image x:Name="image" HorizontalAlignment="Left" Height="79" Margin="111,126,0,0" VerticalAlignment="Top" Width="78" Source="icons/default_dog/idle.ico">
+            <Image.ContextMenu>
+                <ContextMenu>
+                    <Button Content="exit" Click="Exit_Button_Click"/>
+                </ContextMenu>
+            </Image.ContextMenu>
+        </Image>
+
+    </Grid>
+</Window>
